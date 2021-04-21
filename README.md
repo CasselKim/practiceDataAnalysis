@@ -19,6 +19,6 @@
 
 ## Timeline
 
-1. [Dacon/Titanic : surviver prediction](01.Titanic/README.md)
+1. [Dacon/Titanic : surviver prediction](https://www.notion.so/casselkim/f38c911c69a44293bb7bcd62d3993ee0)
 2. 
 
